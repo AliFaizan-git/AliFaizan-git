@@ -67,17 +67,17 @@ fun_fact    : "I fix prod incidents at 3 AM with monk-level calm 🧘"
 
 ## 📈 GitHub Stats
 
+<!-- ══ GH STATS ══ -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliFaizan-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" height="170px"/>
-<img src="https://streak-stats.demolab.com/?user=AliFaizan-git&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AliFaizan-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="170px"/>
+<img src="https://streak-stats.demolab.com/?user=AliFaizan-git&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&count_private=true" height="170px"/>
 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliFaizan-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=6" height="140px"/>
 
 </div>
-
 ---
 
 ## 🖥️ Current Runtime
