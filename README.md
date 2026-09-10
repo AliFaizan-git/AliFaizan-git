@@ -74,8 +74,6 @@ pie showData
 <tr><td width="60">☁️</td><td><b>Fundamentals of DevOps on AWS</b><br><sub>Simplilearn · Sept 2026</sub></td><td><a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIzNzQxIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvMTA3MDM5NTFfMTEwNTk3MzBfMTc4ODc5MDcyODE0NS5wbmciLCJ1c2VybmFtZSI6IkFsaSBGYWl6YW4ifQ%3D%3D">Verify →</a></td></tr>
 </table>
 
-> ⚠️ Badge IDs mapped in the order you sent them (Kubernetes → Linux → DevOps/SRE) — worth confirming against your Credly wallet before this goes live.
-
 <div align="center">
 
 [![Credly Wallet](https://img.shields.io/badge/View%20Full%20Wallet-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ali-faizan.73eaccb4)
@@ -84,7 +82,7 @@ pie showData
 
 <br>
 
-## 🚀 Flagship Project
+##  Project
 
 **System Health Monitor** — a dependency-free Bash toolkit, ShellCheck-verified with zero warnings:
 
@@ -108,8 +106,6 @@ pie showData
 | `shell-scripting-projects` | 🟢 running | [→](https://github.com/AliFaizan-git/Shell_Scriptong-Projects) |
 | `cron-labs` | 🟢 running | [→](https://github.com/AliFaizan-git/CRON_LABS) |
 | `linux-learning-projects` | 🟢 running | [→](https://github.com/AliFaizan-git/Linux-Learning-Projects) |
-| `terraform-iac` | 🟡 pending | — |
-| `github-actions-cicd` | 🟡 pending | — |
 
 <br>
 
